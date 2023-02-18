@@ -12,4 +12,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AalleexxFfrr&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AalleexxFfrr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AalleexxFfrr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
